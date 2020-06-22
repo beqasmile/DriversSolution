@@ -1,0 +1,12 @@
+C:\Users\ilyaa\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DriversManagerProject.exe.config
+C:\Users\ilyaa\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DriversManagerProject.exe
+C:\Users\ilyaa\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DriversManagerProject.pdb
+C:\Users\ilyaa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DriversManagerProject.csprojAssemblyReference.cache
+C:\Users\ilyaa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DriversManagerProject.CarForm.resources
+C:\Users\ilyaa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DriversManagerProject.WelcomeForm.resources
+C:\Users\ilyaa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DriversManagerProject.Driver.resources
+C:\Users\ilyaa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DriversManagerProject.Properties.Resources.resources
+C:\Users\ilyaa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DriversManagerProject.csproj.GenerateResource.cache
+C:\Users\ilyaa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DriversManagerProject.csproj.CoreCompileInputs.cache
+C:\Users\ilyaa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DriversManagerProject.exe
+C:\Users\ilyaa\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DriversManagerProject.pdb
